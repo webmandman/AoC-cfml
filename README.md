@@ -4,6 +4,8 @@ Idea, build a collection to possibly publish on forgebox.io ("demos") or to cfdo
 
 ### 2022
 
+John F: https://github.com/jsf1515/AdventOfCode2022
+
 Kevin L (@satauros): https://github.com/satauros/advent-of-code
 
 Daniel Mejia (@webmandman): https://github.com/webmandman/advent-of-code
