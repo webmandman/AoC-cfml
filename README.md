@@ -16,6 +16,8 @@ Michael Schmidt (@wyldsteed): https://gitlab.com/schmidtm/advent-of-code-2022 (C
 
 Eric Peterson: https://github.com/elpete/advent-of-code-2021
 
+Shawn Oden: https://github.com/shawnoden/aoc_nof
+
 John F: https://github.com/jsf1515/advent-of-code-2021
 
 Daniel Mejia (@webmandman): https://github.com/webmandman/advent-of-code
